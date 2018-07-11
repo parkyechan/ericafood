@@ -1,10 +1,19 @@
 ---
+
 layout: list
-title: Review
-slug: review
+
+title: Studying Computer
+
+slug: csedu
+
 menu: true
+
 submenu: true
-order: 6
+
+order: 2
+
 description: >
-  보고 사용한것들을 리뷰합니다. 라이트한 축에 속하는 하드웨어덕이며, 술, 맛집 등을 좋아합니다.
+
+컴퓨터 공부를 하면서 기록해두는, 공부기록 장소입니다.
+
 ---
