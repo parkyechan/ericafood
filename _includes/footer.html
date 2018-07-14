@@ -1,9 +1,13 @@
-<footer>
-  <hr/>
-  {% if site.copyright.size > 0 %}
-    {{ site.copyright | markdownify }}
-  {% endif %}
-  <p>
-    <code>Powered by <a href="https://isme2n.github.io/">aiden</a></code>
-  </p>
+{% if site.theme_settings.footer_text %}
+<footer class="site-footer">
+    <p class="text">{{ site.theme_settings.footer_text }}</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                {% include icons.html %}
+                </ul>
+            </div>
 </footer>
+{% endif %}
+
+
