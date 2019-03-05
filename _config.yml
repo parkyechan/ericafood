@@ -1,5 +1,5 @@
 # Site settings
-title: Study Blog
+title: STUDY
 email: parkyechan@hanyang.ac.kr
 description:
 # > # this means to ignore newlines until "baseurl:"
@@ -21,7 +21,7 @@ newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: lixizhi
+disqus_shortname: yechan
 disqus_url: "https://parkyechan.github.io/"
 #########################################
 
