@@ -20,6 +20,7 @@ permalink: /lecture/
 * Circuit Theory 2
 * Numerical Analysis
 * Database
+  * [github project](https://github.com/parkyechan/DB_Project)
 * Design & Analysis of Algorithms
 
 ## 2018 Spring Semester
