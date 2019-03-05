@@ -7,7 +7,7 @@ permalink: /lecture/
 
 * content
 {:toc}
-# 3학년 1학기
+# 2018 Spring Semester
 
 ### Signals and Systems
 
