@@ -17,6 +17,31 @@ permalink: /lecture/
 
 ### System Programming
 
+# 2018 Spring Semester
+
+### Engineering Mathematics 2
+
+### Circuit Theory 2
+
+### Numerical Analysis
+
+### Database
+
+### Design & Analysis of Algorithms
+
+
+# 2017 Spring Semester
+
+### Engineering Mathematics 1
+
+### Circuit Theory 1
+
+### Data Structure
+
+### Introduction to System Programming
+
+### Digital Logic Design
+
 
 ## About the site
 This is a personal website of LiXizhi, created with github and jekyll.
