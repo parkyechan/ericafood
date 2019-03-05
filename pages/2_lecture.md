@@ -9,7 +9,7 @@ permalink: /lecture/
 {:toc}
 # 3학년 1학기
 
-### Signals ans Systems
+### Signals and Systems
 
 ### Computer Architecture and Organization
 
