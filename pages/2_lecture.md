@@ -9,13 +9,13 @@ permalink: /lecture/
 {:toc}
 # 3학년 1학기
 
-## 신호와 시스템
+### Signals ans Systems
 
-## 컴퓨터 구조
+### Computer Architecture and Organization
 
-## 운영체제론
+### Operating Systems
 
-## 시스템 프로그래밍
+### System Programming
 
 
 ## About the site
