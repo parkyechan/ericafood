@@ -1,15 +1,20 @@
 ---
 layout: page
-title: Projects
+title: Study
 comments: false
-permalink: /projects/
+permalink: /study/
 ---
 
 * content
 {:toc}
 
-# All my projects
-Following are projects started by me.
+# 공부한 것들
+2018년에 github blog를 개설한 이후에 공부한 내용들에대해서 정리합니다.
+
+##인공지능 스터디 by SUA
+* Started : 2018.01 - 2018.03
+* 참고 자료 : [모두의 인공지능](https://hunkim.github.io/ml/)
+* 학습 일지 :
 
 ## NPL project
 * Started: 2004-present
