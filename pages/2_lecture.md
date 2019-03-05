@@ -7,6 +7,16 @@ permalink: /lecture/
 
 * content
 {:toc}
+# 3학년 1학기
+
+## 신호와 시스템
+
+## 컴퓨터 구조
+
+## 운영체제론
+
+## 시스템 프로그래밍
+
 
 ## About the site
 This is a personal website of LiXizhi, created with github and jekyll.
