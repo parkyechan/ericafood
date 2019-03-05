@@ -9,7 +9,7 @@ permalink: /study/
 {:toc}
 
 # 공부한 것들
-2018년 github blog를 개설한 이후에 공부한 내용들에대해서 정리합니다.
+2018년 github blog를 개설한 이후에 공부한 내용들을 정리합니다.
 
 ## 인공지능 스터디 by SUA
 * Started : 2018.01 - 2018.03
