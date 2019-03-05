@@ -11,6 +11,11 @@ permalink: /study/
 # 공부한 것들
 2018년 github blog를 개설한 이후에 공부한 내용들을 정리합니다.
 
+### 화이트해커가 되기 위한 8가지 웹 해킹 기술
+* Started : 2018.03 - present
+* 참고 자료 : [강의 정보](https://www.inflearn.com/course/%ED%99%94%EC%9D%B4%ED%8A%B8%ED%95%B4%EC%BB%A4%EA%B0%80-%EB%90%98%EA%B8%B0%EC%9C%84%ED%95%9C-8%EA%B0%80%EC%A7%80/)
+* 학습 일지 : [링크]()
+
 ### 비박스 환경을 활용한 웹 모의해킹 완벽 실습
 * Started : 2018.03
 * 참고 자료 : [교재 정보](https://book.naver.com/bookdb/book_detail.nhn?bid=11332017)
