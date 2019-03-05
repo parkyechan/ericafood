@@ -14,7 +14,7 @@ permalink: /study/
 ### 비박스 환경을 활용한 웹 모의해킹 완벽 실습
 * Started : 2018.03
 * 참고 자료 : [교재 정보](https://book.naver.com/bookdb/book_detail.nhn?bid=11332017)
-* 학습 일지 :
+* 학습 일지 : [링크](https://blog.naver.com/PostList.nhn?blogId=evannalynch_&from=postList&categoryNo=43)
 
 기존에 웹 기반 html, mysql, php 등의 지식이 선행되어 있어서 다른 해킹보다 공부하기 수월할 것 같아서 시작하게 되었습니다.
 
