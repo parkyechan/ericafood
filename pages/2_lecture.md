@@ -17,7 +17,7 @@ permalink: /lecture/
 
 ### System Programming
 
-# 2018 Spring Semester
+# 2017 Fall Semester
 
 ### Engineering Mathematics 2
 
