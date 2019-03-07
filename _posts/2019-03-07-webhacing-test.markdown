@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "안농지킬 jekyll!"
+title:  "TEST!"
 date:   2015-02-10 15:14:54
-categories: 2019-Spring-Semester
+categories: Web-Hacking
 comments: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
