@@ -15,16 +15,13 @@ permalink: /about/
 
 ## Experience
 
-  * Quantum Cryptography Club (2018.09 - ing)
+  * Quantum Cryptography Club(2018.09 - ing)
     * President (2019)
-    * [Homepage](https://www.hyqcc.info/)
   * SONAR 국방정보공학과 내 정보보안학회(2018.09 - ing)
     * Founder
     * President(2018 - ing)
-    * [Homepage](https://hanyangsonar.github.io/)
   * SangSang Volunteer (2018.02 - 2018.07)
     * KT&G 상상유니브 발룬티어 경기 15기
-    * [Homepage](https://www.sangsanguniv.com/master/memberList.univ#none)
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
     * Web Developer Team
     * [Github](https://github.com/TEDxHanyangUAnsan)
@@ -38,11 +35,9 @@ permalink: /about/
     * [Solution](https://github.com/parkyechan/algo)
   * 2018 HEPC - PRIME
     * [Homepage](http://hepc.hycse.net/)
-    * [Problem](https://www.acmicpc.net/category/detail/1872)
     * Ranking
   * 2010 전국청소년컴퓨터경진대회
     * 주최 : 한국디지털미디어고등학교
-    * [Homepage](https://contest.dimigo.hs.kr/)
     * Award : 동상(홈페이지 제작)
 
 ---
