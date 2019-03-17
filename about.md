@@ -7,13 +7,14 @@ permalink: /about/
 
 ## Education
 
-  * Hanyang University, Ansan Campus
+  * Hanyang University, Ansan Campus, Korea
     * Military Information Engineering(1st)
     * Computer Science(2nd)
 
 ---
 
 ## Experience
+
   * 인공지능 스터디(2019.01 - 2019.02)
     * SUA 주관 스터디
     * [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
@@ -29,6 +30,15 @@ permalink: /about/
 
 ## Problem Solving
 
+  * Baekjoon Online Judge
+    * [Link](https://www.acmicpc.net/user/keepyourweaponaimed)
+    * [Solution](https://github.com/parkyechan/algo)
+  * 2018 HEPC - PRIME
+    * [Link](https://www.acmicpc.net/category/detail/1872)
+    * Ranking
+
 ---
 
 ## ETC
+  * Contact
+    * parkyechan@hanyang.ac.kr
