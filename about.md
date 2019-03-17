@@ -18,6 +18,10 @@ permalink: /about/
   * Quantum Cryptography Club (2018.09 - ing)
     * President (2019)
     * [Homepage](https://www.hyqcc.info/)
+  * SONAR (2018.09 - ing)
+    * Founder(2018)
+    * President(2019)
+    * [Homepage](https://hanyangsonar.github.io/)
   * SangSang Volunteer (2018.02 - 2018.07)
     * KT&G 상상유니브 발룬티어 경기 15기
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
