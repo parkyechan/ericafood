@@ -18,7 +18,7 @@ permalink: /about/
   * Quantum Cryptography Club (2018.09 - ing)
     * President (2019)
     * [Homepage](https://www.hyqcc.info/)
-  * SONAR (2018.09 - ing)
+  * SONAR 국방정보공학과 내 정보보안학회(2018.09 - ing)
     * Founder(2018)
     * President(2019)
     * [Homepage](https://hanyangsonar.github.io/)

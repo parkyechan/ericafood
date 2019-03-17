@@ -5,6 +5,7 @@ permalink: /study/
 ---
 
 수강한 전공학점 수업
+---
 ## Lecture
   * 2019 Spring Semester
     * Signals and Systems
@@ -33,6 +34,7 @@ permalink: /study/
     * Digital Logic Design
 
 ---
+
 ## Study Club
   * 인공지능 스터디(2019.01 - 2019.02)
     * SUA 주관 스터디
