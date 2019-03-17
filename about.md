@@ -9,6 +9,7 @@ permalink: /about/
 
   * Hanyang University, Ansan Campus, Korea
     * Military Information Engineering(1st)
+      * [Homepage](http://mie.hanyang.ac.kr/)
     * Computer Science(2nd)
 
 ---
