@@ -6,7 +6,7 @@ permalink: /about/
 
 
 ## Education
-
+### Undergraduate
   * Hanyang University, Ansan Campus, Korea
     * Military Information Engineering(1st)
     * Computer Science(2nd)
