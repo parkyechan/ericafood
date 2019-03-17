@@ -19,6 +19,7 @@ permalink: /about/
     * [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
   * Quantum Cryptography Club (2018.09 - ing)
     * President (2019)
+    * [Link](https://www.hyqcc.info/)
   * SangSang Volunteer (2018.02 - 2018.07)
     * KT&G 상상유니브 발룬티어 경기 15기
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
