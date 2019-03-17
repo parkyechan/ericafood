@@ -32,6 +32,8 @@ permalink: /study/
     * Data Structure
     * Introduction to System Programming
     * Digital Logic Design
+    
+  * 2017 Spring Semester
 
 ---
 
@@ -43,3 +45,8 @@ permalink: /study/
     * SONAR 주관 스터디
     * [교재 정보](https://book.naver.com/bookdb/book_detail.nhn?bid=7142034)
     * 학회 창립 첫 스터디, 후배 교육 목적 세미나
+
+---
+
+## Book
+  *
