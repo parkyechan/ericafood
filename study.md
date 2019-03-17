@@ -39,7 +39,6 @@ permalink: /study/
   * 인공지능 스터디(2019.01 - 2019.02)
     * SUA 주관 스터디
     * [모두를 위한 머신러닝/딥러닝](https://hunkim.github.io/ml/)
-</br>
   * 문제 풀이로 배우는 시스템 해킹 테크닉(2018.09 - 2018.12)
     * SONAR 주관 스터디
     * [교재 정보](https://book.naver.com/bookdb/book_detail.nhn?bid=7142034)
