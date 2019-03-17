@@ -5,15 +5,10 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
         Park Ye-Chan, Hanyang University, Ansan, Korea. I am majoring in Militory Information Engineering(2017~present) and Computer Science(2018~present).  <br>
         Interesting : Algorithm, Pwnable, Web hacking, Artificial intelligence.<br>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
