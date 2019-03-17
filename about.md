@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 
-##Education
+## Education
 
 Hanyang University, Ansan Campus - Military Information Engineering(1st), Computer Science(2nd)
 
 ---
 
-##Experience
+## Experience
 
-##Problem Solving
+## Problem Solving
 
-##ETC
+## ETC
