@@ -4,9 +4,8 @@ title: About
 permalink: /study/
 ---
 
-수강한 전공학점 수업
----
-## Lecture
+
+## Lecture <font size = 8pt>(수강한 전공학점 수업)</font>
   * 2019 Spring Semester
     * Signals and Systems
     * Computer Architecture and Organization
