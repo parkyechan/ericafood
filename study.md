@@ -6,7 +6,7 @@ permalink: /study/
 
 
 ## Class
-<font size = 8pt>(수강한 전공학점 수업)</font>
+수강한 전공학점 수업
   * 2019 Spring Semester
     * Signals and Systems
     * Computer Architecture and Organization
