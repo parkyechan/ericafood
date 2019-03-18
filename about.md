@@ -23,8 +23,7 @@ permalink: /about/
     * President(2018 - ing)
 
 ### Extracurricular Activities  
-  * SangSang Volunteer (2018.02 - 2018.07)
-    * KT&G 상상유니브 발룬티어 경기 15기
+  * KT&G 상상유니브 발룬티어 경기 15기(2018.02 - 2018.07)
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
     * Web Developer Team
     * [Github](https://github.com/TEDxHanyangUAnsan)
