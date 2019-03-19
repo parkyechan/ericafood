@@ -35,7 +35,7 @@ permalink: /about/
   * Baekjoon Online Judge
     * [Page](https://www.acmicpc.net/user/keepyourweaponaimed)
     * [Solution](https://github.com/parkyechan/algo)
-  * 2018 HEPC - PRIME : 13th place
+  * 2018 HEPC (Hanyang ERICA Programming Contest) - PRIME : 13th place
   * 2010 전국청소년컴퓨터경진대회
     * 주최 : 한국디지털미디어고등학교
     * Award : 동상(홈페이지 제작)
