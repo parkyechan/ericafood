@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Education
 ### Undergraduate
-  * Hanyang University - ERICA
+  * Hanyang University, Ansan, Korea
     * Military Information Engineering(1st)
     * Computer Science(2nd)
 
