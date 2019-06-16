@@ -11,8 +11,9 @@ permalink: /study/
     * Signals and Systems
     * Computer Architecture and Organization
     * Operating Systems
+      * [github](https://github.com/parkyechan/2019_Spring_OperatingSystem)
     * System Programming
-      * [github](https://github.com/parkyechan/2019-Spring-SystemProgramming)
+      * [github](https://github.com/parkyechan/2019_Spring_SystemProgramming)
 
 
   * 2018 Fall Semester  
@@ -32,7 +33,7 @@ permalink: /study/
     * Data Structure
     * Introduction to System Programming
     * Digital Logic Design
-    
+
   * 2017 Spring Semester
 
 ---
