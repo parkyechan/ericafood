@@ -1,57 +1,28 @@
-# Soot Spirits Jekyll Theme
+Sweet 16
+========
+[Wordpress 2016 theme][2016] revives in Jekyll.
 
-Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.
+This theme is for those who like the visual design of Wordpress but otherwise
+want a static site.
 
-![mobile](tmp/mobile.png)
+This theme is a reaction to content injection vulnerability in Wordpress 4.7.
+I've always liked the design of Wordpress default themes.  Wordpress is also
+good for muggles but too complex for me.  I've never thought that such
+complexity would cause problem until a random French guy injected a spam
+article.
 
-The text is made beautiful with combination of [League Gothic](https://www.fontsquirrel.com/fonts/league-gothic), [Roboto](https://fonts.google.com/specimen/Roboto) and [Open Sans](https://fonts.google.com/specimen/Open+Sans). Now who doesn't love them.
+Customization
+-------------
+Customization is welcome since developers' and writers' files are somewhat
+separated.  The only underscored paths writers touch are `_data` and `_posts`.
 
-![text](tmp/langslide.gif)
+Differences from [2016, the reference theme][2016] are considered bugs although
+some of them are impossible to fix due to the nature of Jekyll.  Bravely file
+bugs or make pull requests to make this theme more close to the reference
+theme.
 
-### Demo
-[sootspirits.github.io](https://sootspirits.github.io)
+License
+-------
+GPL because this theme is a derivative from Wordpress.
 
-### Some Good Features
-
-- Fully mobile ready
-- Beautiful typography
-- Two column layout suitable for a wide range of blogging habits
-- Fully customisable theme including the 'hello' text, quotes, nav items and sidebar widgets
-
-### Screenshots
-##### Deskop browser (full width)
-![fullwidth](tmp/fullwidth.png)
-
-##### Tablet browser (iPad)
-![tab](tmp/ipad.png)
-
-##### Mobile browser (320px and greater)
-![mobile](tmp/mobile.png)
-
-##### Hamburger menu toggle
-![hamburger](tmp/hamburger.gif)
-
-##### Basic navigation and footer
-![navi](tmp/navi.gif)
-
-### Theme Usage
-
-- [Get started](https://jekyllrb.com/docs/installation/) with having the necessary tools set up
-- Download the zip of this project or simple clone it
-- Delete the ```tmp/``` directory and any sample ```_posts```
-- Customize the variables in ```_config.yml``` file such that it reflects your information. Similarly, change the disqus username (or remove it altogether).
-- Replace footer links in the ```_layouts/default.html``` file with yours.
-- Replace the ```site:example.com``` in ```assets/js/custom.js``` with your site's address.
-
-### Credits
-- [Codepen hi-im-si](http://codepen.io/hi-im-si/pen/DHoup) for the header 'hello' typewriter text
-- [Bulma CSS](bulma.io/)
-- [Jekyll](https://jekyllrb.com)
-- [Github](https://github.com)
-
-### Licence
-MIT
-
-
-### What's up with the name?
-I was watching [My Neighbour Totoro](https://en.wikipedia.org/wiki/Susuwatari) while developing :-)
+[2016]: https://wordpress.org/themes/twentysixteen/
