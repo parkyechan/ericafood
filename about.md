@@ -10,6 +10,7 @@ permalink: /about/
   * Hanyang University, Ansan, Korea
     * Military Information Engineering(1st)
     * Computer Science(2nd)
+    * Economics(Minor)
 
 ---
 
@@ -23,6 +24,7 @@ permalink: /about/
     * President(2018 - ing)
 
 ### Extracurricular Activities  
+  * KITRI BOB, 차세대 보안리더 양성 프로그램 8기(2019.07 - ing)
   * KT&G 상상유니브 발룬티어 경기 15기(2018.02 - 2018.07)
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
     * Web Developer Team
