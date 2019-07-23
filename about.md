@@ -24,12 +24,10 @@ permalink: /about/
     * President(2018 - ing)
 
 ### Extracurricular Activities  
-  * KITRI BOB, 차세대 보안리더 양성 프로그램 8기(2019.07 - ing)
-  * KT&G 상상유니브 발룬티어 경기 15기(2018.02 - 2018.07)
+  * KITRI BoB, 8기 보안제품개발트랙 (2019.07 - ing)
+  * KT&G 상상유니브 발룬티어 15기 경기 (2018.02 - 2018.07)
   * TEDxHanyangUAnsan (2017.09 - 2017.12)
     * 1st Team Web Developer
-
-
 
 ---
 
