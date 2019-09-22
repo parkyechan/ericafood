@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-Something about me.
+Park, Yechan(Hanyang University, Military Information Engineering)
+Contact : parkyechan@hanyang.ac.kr
+[https://www.linkedin.com/in/parkyechan/]Linkedin
