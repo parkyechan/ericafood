@@ -2,7 +2,7 @@
 
 ## Lv. 1
 
-![lv1_1](./webhancking.kr/lv1_1.PNG)
+![lv1_1](webhancking.kr/lv1_1.PNG)
 
 보는 것과 같은 힌트를 주는데, 저기서 저 부분에 집중을 함.
 
