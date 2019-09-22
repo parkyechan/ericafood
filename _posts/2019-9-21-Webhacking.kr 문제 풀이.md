@@ -1,6 +1,6 @@
 # Webhacking.kr 문제 풀이
 
-### Lv. 1
+## Lv. 1
 
 ![lv1_1](./webhancking.kr/lv1_1.PNG)
 
