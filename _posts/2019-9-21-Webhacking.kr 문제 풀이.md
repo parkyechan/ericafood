@@ -1,4 +1,4 @@
-# Webhacking.kr 문제 풀이
+# Webhacking.kr(old) 문제 풀이
 
 ## Lv. 1
 
