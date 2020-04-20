@@ -29,12 +29,12 @@ permalink: /about/
 
 - System Security Lab (Prof. Yeonjoon Lee)
   - Participated in NSR(National Security Research Institute, 국가보안기술연구소) project
-    - 안드로이드 인공지능App 리버스 엔지니어링
+    - 안드로이드 기반 인공지능App APK 리버스 엔지니어링
 
 #### DGIST - Graduate School Intern (2020.1 - 2020.2)
 
 - Data-Intensive Lab (Prof. Sungjin Lee)
-  - Linux OS FTL Box 
+  - Linux OS flash-based FTL(File Translation Layer) 구현 
   - File system implementation
 
 #### KITRI BoB - 차세대보안리더양성프로그램 (2019.7 - 2020.3)
