@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-Park, Yechan
+Some information about you!
 
-Military Information Engineering, Hanyang University, Korea 
+### More Information
 
-Contact : parkyechan@hanyang.ac.kr
+A place to include any other types of information that you'd like to include about yourself.
 
-[Linkedin](https://www.linkedin.com/in/parkyechan/)
+### Contact me
 
+[email@domain.com](mailto:email@domain.com)
