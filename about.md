@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Park Yechan(1995, Seoul, S.Korea)
+# Park Yechan
 
 ## Link
 
