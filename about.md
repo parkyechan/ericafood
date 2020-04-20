@@ -41,7 +41,7 @@ permalink: /about/
 
 - Project (2019.9 - 2019.12)
   -  비밀번호를 대체할 ECG(심전도) 기반 차세대 개인 인증 프로그램 구현
-- Intensive Trainning Course (2019.7 - 2019.8)
+- Intensive Training Course (2019.7 - 2019.8)
   - 보안제품개발트랙
 
 ---
