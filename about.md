@@ -33,7 +33,7 @@ permalink: /about/
 
 ### DGIST - Graduate School Intern (2020.1 - 2020.2)
 
-- [Data-Intensive Lab](https://datalab.dgist.ac.kr/) (Prof. Sungjin Lee)
+- [Data Lab](https://datalab.dgist.ac.kr/) (Prof. Sungjin Lee)
   - Linux OS flash-based FTL(File Translation Layer) 구현 
   - File system implementation
 
