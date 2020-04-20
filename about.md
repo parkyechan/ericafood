@@ -1,10 +1,10 @@
 ---
 layout: page
-title:
+title: About
 permalink: /about/
 ---
 
-# Park Yechan
+# Park Yechan(1995, Seoul, S.Korea)
 
 ## Link
 
@@ -48,5 +48,6 @@ permalink: /about/
 
 ## Contact
 
-parkyechan (at) hanyang.ac.kr
+- parkyechan (at) hanyang.ac.kr
+- ppakyechan (at) gmail.com
 
