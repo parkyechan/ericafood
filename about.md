@@ -27,17 +27,17 @@ permalink: /about/
 
 ### Undergraduate Research Assistant (2020.4 - ing)
 
-- System Security Lab (Prof. Yeonjoon Lee)
+- System Security Lab (Prof. [Yeonjoon Lee](http://yeonjoonlee.com/))
   - Participated in NSR(National Security Research Institute, 국가보안기술연구소) project
     - 안드로이드 기반 인공지능App APK 리버스 엔지니어링
 
 ### DGIST - Graduate School Intern (2020.1 - 2020.2)
 
-- Data-Intensive Lab (Prof. Sungjin Lee)
+- [Data-Intensive Lab](https://datalab.dgist.ac.kr/) (Prof. Sungjin Lee)
   - Linux OS flash-based FTL(File Translation Layer) 구현 
   - File system implementation
 
-### KITRI BoB - 차세대보안리더양성프로그램 (2019.7 - 2020.3)
+### [KITRI BoB]([https://www.kitribob.kr](https://www.kitribob.kr/)) - 차세대보안리더양성프로그램 (2019.7 - 2020.3)
 
 - Project (2019.9 - 2019.12)
   -  비밀번호를 대체할 ECG(심전도) 기반 차세대 개인 인증 프로그램 구현
@@ -48,6 +48,6 @@ permalink: /about/
 
 ## Contact
 
-- parkyechan (at) hanyang.ac.kr
-- ppakyechan (at) gmail.com
+- [parkyechan (at) hanyang.ac.kr](parkyechan@hanyang.ac.kr)
+- [ppakyechan (at) gmail.com](ppakyechan (at) gmail.com)
 
