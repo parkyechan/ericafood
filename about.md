@@ -28,7 +28,7 @@ permalink: /about/
 ### Undergraduate Research Assistant (2020.4 - ing)
 
 - System Security Lab (Prof. [Yeonjoon Lee](http://yeonjoonlee.com/))
-  - Participated in NSR(National Security Research Institute, 국가보안기술연구소) project
+  - NSR(National Security Research Institute, 국가보안기술연구소) funded project
     - 안드로이드 기반 인공지능비서 어플리케이션 분석
 
 ### DGIST - Graduate School Intern (2020.1 - 2020.2)
