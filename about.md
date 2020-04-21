@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
@@ -43,6 +43,15 @@ permalink: /about/
   -  비밀번호를 대체할 ECG(심전도) 기반 차세대 개인 인증 프로그램 구현
 - Intensive Training Course (2019.7 - 2019.8)
   - 보안제품개발트랙
+
+---
+
+## ETC 
+
+### Problem Solving
+
+- [Codeforces](http://codeforces.com/profile/keepyourweaponaimed)
+- [Baek Joon Online Judge](https://www.acmicpc.net/user/keepyourweaponaimed)
 
 ---
 
