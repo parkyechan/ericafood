@@ -1,3 +1,9 @@
+---
+layout: page
+title:
+permalink: /mie_career/
+---
+
 # 국방과에서 정보보안과 관련된 커리어 쌓는 방법에 대한 고찰
 
 - 17' 박예찬 - parkyechan at hanyang dot ac dot kr
