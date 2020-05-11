@@ -47,7 +47,7 @@ permalink: /about/
 
 - 1st team member
 - Web developer's position for making the event homepage
-  - [Site](https://tedxhanyanguansan.github.io/TEDx/)
+  - [Link](https://tedxhanyanguansan.github.io/TEDx/)
 
 ---
 
