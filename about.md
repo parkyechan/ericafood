@@ -56,7 +56,7 @@ permalink: /about/
 ### Problem Solving
 
 - [Codeforces](http://codeforces.com/profile/keepyourweaponaimed)
-- [Baek Joon Online Judge](https://www.acmicpc.net/user/keepyourweaponaimed)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/keepyourweaponaimed)
 
 ---
 
