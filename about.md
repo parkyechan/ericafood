@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-# Park Yechan
+# Park Yechan(1995, Seoul)
 
 ## Link
 
@@ -29,7 +29,6 @@ permalink: /about/
 
 - System Security Lab (Prof. [Yeonjoon Lee](http://yeonjoonlee.com/))
   - NSR(National Security Research Institute, 국가보안기술연구소) funded project
-    - 안드로이드 기반 인공지능비서 어플리케이션 분석
 
 ### DGIST - Graduate School Intern (2020.1 - 2020.2)
 
@@ -43,6 +42,12 @@ permalink: /about/
   -  비밀번호를 대체할 ECG(심전도) 기반 차세대 개인 인증 프로그램 구현
 - Intensive Training Course (2019.7 - 2019.8)
   - 보안제품개발트랙
+
+### TEDxHanyangUAnsan(2017.9 - 2017.12)
+
+- 1st team member
+- Web developer's position for making the event site
+  - [Site](https://tedxhanyanguansan.github.io/TEDx/)
 
 ---
 
