@@ -46,7 +46,7 @@ permalink: /about/
 ### TEDxHanyangUAnsan(2017.9 - 2017.12)
 
 - 1st team member
-- Web developer's position for making the event site
+- Web developer's position for making the event homepage
   - [Site](https://tedxhanyanguansan.github.io/TEDx/)
 
 ---
