@@ -4,4 +4,4 @@ title:
 permalink: /about/
 ---
 
-ㅎㅇ
+이렇게 귀한 곳에 누추한 분이...
